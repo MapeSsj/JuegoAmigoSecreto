@@ -6,7 +6,7 @@
 Aplicación web simple y divertida para jugar al clásico **Amigo Secreto**.  
 Permite ingresar nombres de amigos, mostrarlos en una lista y sortear uno al azar.  
 
-![Captura del proyecto](assets/amigo-secreto.png)
+![Captura del proyecto](assets/PantallaPrincipal.png)
 
 ---
 
@@ -32,10 +32,14 @@ Permite ingresar nombres de amigos, mostrarlos en una lista y sortear uno al aza
 
 Ejemplo de funcionamiento:
 
-1. Escribe un nombre en el campo de texto.  
-2. Presiona **"Añadir"** para guardarlo en la lista.  
-3. Cuando todos estén ingresados, presiona **"Sortear amigo"**.  
-4. 🎉 ¡Listo! Aparecerá el amigo secreto seleccionado al azar.
+1. Escribe un nombre en el campo de texto.
+![Captura del proyecto](assets/escribirNombre.png)
+3. Presiona **"Añadir"** para guardarlo en la lista.
+![Captura del proyecto](assets/añadirNombre.png) 
+5. Cuando todos estén ingresados, presiona **"Sortear amigo"**.
+![Captura del proyecto](assets/nombreSorteado.png)   
+7. 🎉 ¡Listo! Aparecerá el amigo secreto seleccionado al azar.
+![Captura del proyecto](assets/sorteo.png) 
 
 ---
 
